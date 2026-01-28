@@ -15,7 +15,7 @@
     "nodemon": "^3.1.10"
   },
   "scripts": {
-    "start": "node index.js",
+    "start": "node server.js",
     "dev": "nodemon server.js"
   },
   "name": "chat-app-backend",
